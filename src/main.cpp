@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#define DELAY 200
+#define DELAY 2000
 int BASE = 3;
 int NUM = 5;
 void setup()
