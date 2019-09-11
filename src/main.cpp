@@ -1,9 +1,4 @@
-#include <stdint.h>
-#include <stdio.h>
-
-#define UBRRH
 #include <Arduino.h>
-#include <avr/io.h>
 
 int BASE = 3;
 int NUM = 5;
